@@ -15,6 +15,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+Expected output
+![](./design/desktop-design.jpg)
+
+
+My Solution
 ![](./Screenshot%202025-02-03%20at%2011.27.24.png)
 
 ### Links
